@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Perobellinha
- *
- */
-module jogoXadrez {
-}
